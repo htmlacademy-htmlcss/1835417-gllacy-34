@@ -1,6 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Никита Пряхин](https://up.htmlacademy.ru/htmlcss/34/user/1835417).
+* Наставник: [ссылка для домашнего задания](https://htmlacademy.ru/profile/nyukalopavel)
 * Наставник: `[Павел Нюкало]`.
 
 ---
